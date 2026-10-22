@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/react-individual/3/user/1571355).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Атаманов](https://htmlacademy.ru/profile/atamanov_dmitriy).
 
 ---
 
